@@ -1,0 +1,27 @@
+
+        .cardazul {
+            background-color: violet;
+            width: 500px;
+            height: fit-content;
+            border-radius: 25px;
+            border: solid black;
+
+        }
+        .main-color {
+            color: blue;
+        }
+
+
+        .card {
+            background-color: green;
+            width: 500px;
+            height: fit-content;
+            border-radius: 25px;
+            border: solid black
+        }
+        .box{
+            width: 100px;
+            height: 100px;
+            background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+            background-size: cover;
+        }
